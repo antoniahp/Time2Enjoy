@@ -32,9 +32,9 @@ Página del cliente con calendario.
 
 ## Casos de uso que soporta el flujo:
 
-Lucas: Cliente final tiene una estancia en el Hotel Meliá y ha reservado el servicio SPA.
-Pedro: Cliente final tiene una estancia en Hotel Meliá y ha reservado el servicio RV y tiene una estancia  en Hotel Samos el servicio  restaurante.
-Mario: Staff del Hotel Samos, ha añadido un nuevo servicio al hotel Samos.
+1. Lucas: Cliente final tiene una estancia en el Hotel Meliá y ha reservado el servicio SPA.
+2. Pedro: Cliente final tiene una estancia en Hotel Meliá y ha reservado el servicio RV y tiene una estancia  en Hotel Samos el servicio  restaurante.
+3. Mario: Staff del Hotel Samos, ha añadido un nuevo servicio al hotel Samos.
 
 
 
